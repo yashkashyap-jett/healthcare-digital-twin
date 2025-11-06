@@ -249,7 +249,7 @@ This project is created for educational purposes as a college project.
 
 ## 👥 Author
 
-Created by [Your Name] - [Your College]
+Created by Yash Kashyap - Chandigarh University
 
 ## 🙏 Acknowledgments
 
